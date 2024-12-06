@@ -1,4 +1,0 @@
-Struk Pesanan:
-Ayam Bakar - Rp15000.0
-Teh Manis - Rp5000.0
-Total: Rp20000.0
